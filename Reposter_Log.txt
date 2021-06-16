@@ -1,0 +1,260 @@
+﻿14.03.2021 19:02: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:03: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:07: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:08: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:08: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:09: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:09: Curl operation success
+
+14.03.2021 19:09: Successfully parsed JSON data
+
+14.03.2021 19:09: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:09: Successful Request!
+
+14.03.2021 19:11: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:11: Curl operation success
+
+14.03.2021 19:11: Successfully parsed JSON data
+
+14.03.2021 19:11: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:17: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:18: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:18: Curl operation success
+
+14.03.2021 19:18: Successfully parsed JSON data
+
+14.03.2021 19:18: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:18: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:18: Curl operation success
+
+14.03.2021 19:18: Successfully parsed JSON data
+
+14.03.2021 19:18: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:18: Successful Request!
+
+14.03.2021 19:19: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:19: Curl operation success
+
+14.03.2021 19:19: Successfully parsed JSON data
+
+14.03.2021 19:19: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:19: Successful Request!
+
+14.03.2021 19:19: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:19: Curl operation success
+
+14.03.2021 19:19: Successfully parsed JSON data
+
+14.03.2021 19:19: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:19: Successful Request!
+
+14.03.2021 19:20: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:20: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:20: Curl operation success
+
+14.03.2021 19:20: Successfully parsed JSON data
+
+14.03.2021 19:20: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:20: Successful Request!
+
+14.03.2021 19:26: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:26: Curl operation success
+
+14.03.2021 19:26: Successfully parsed JSON data
+
+14.03.2021 19:26: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:28: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:28: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:28: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:28: Curl operation success
+
+14.03.2021 19:28: Successfully parsed JSON data
+
+14.03.2021 19:28: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:28: Successful Request!
+
+14.03.2021 19:29: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:29: Curl operation success
+
+14.03.2021 19:29: Successfully parsed JSON data
+
+14.03.2021 19:29: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:29: Successful Request!
+
+14.03.2021 19:29: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:29: Curl operation success
+
+14.03.2021 19:29: Successfully parsed JSON data
+
+14.03.2021 19:29: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:29: Successful Request!
+
+14.03.2021 19:29: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+14.03.2021 19:29: Curl operation success
+
+14.03.2021 19:29: Successfully parsed JSON data
+
+14.03.2021 19:29: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+14.03.2021 19:29: Successful Request!
+
+15.03.2021 12:04: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+15.03.2021 12:05: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+15.03.2021 12:05: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+15.03.2021 12:05: Curl operation success
+
+15.03.2021 12:05: Successfully parsed JSON data
+
+15.03.2021 12:05: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+15.03.2021 12:05: Successful Request!
+
+15.03.2021 12:06: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+15.03.2021 12:06: Curl operation success
+
+15.03.2021 12:06: Successfully parsed JSON data
+
+15.03.2021 12:06: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+15.03.2021 12:06: Successful Request!
+
+15.03.2021 12:06: Curl operation success
+
+15.03.2021 12:06: Successfully parsed JSON data
+
+15.03.2021 12:06: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+15.03.2021 12:06: Successful Request!
+
+15.03.2021 12:07: Welcome to GetGoogleSheets.exe
+0 args were sent
+
+
+
+15.03.2021 12:07: Curl operation success
+
+15.03.2021 12:07: Successfully parsed JSON data
+
+15.03.2021 12:07: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+15.03.2021 12:07: Successful Request!
+
+15.03.2021 12:07: Curl operation success
+
+15.03.2021 12:07: Successfully parsed JSON data
+
+15.03.2021 12:07: https://docs.google.com/spreadsheets/d/1EuB04RZI1uOogKXhIoNgWsmnAmS6NL0zC0WstRXUiQw/gviz/tq?tqx=out:csv&sheet=Sheet1
+
+15.03.2021 12:07: Successful Request!
+
